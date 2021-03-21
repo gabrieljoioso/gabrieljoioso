@@ -34,7 +34,7 @@
 <p align="left">
  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="4%">
  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="4%">
- <img src="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg" alt="pycharm" width="4%">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="4%">
  <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="4%">                                                                                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="4%"> 
 </p>
 
