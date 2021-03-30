@@ -28,14 +28,18 @@
  <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="html5" width="4%">
  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="4%"">
 </p>
-
+                                                                                  
+#### Banco de Dados:
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="xd" width="7%"> 
+</p>
 
 #### Ferramentas:
 <p align="left">
  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="4%">
  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="4%">
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="4%">
- <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="4%">                                                                                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="4%"> 
+ <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="4%">                                                                                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="sql" width="4%">
 </p>
 
 
