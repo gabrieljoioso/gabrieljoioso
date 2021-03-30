@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gjoioso.cs@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/50esaalac0nu7lppnf4ptitu1)
 
-<h3 align="left">Meu nome é <b>Gabriel Eduardo Joioso</b> e atualmente sou acadêmico do curso de Ciência da Computação.</h3>
+<h3 align="left">Meu nome é Gabriel Eduardo Joioso e atualmente sou acadêmico do curso de Ciência da Computação.</h3>
 <p align="left">Apaixonado por tecnologia, pelo mundo mobile e com o objetivo de construir uma carreira profissional sólida.</p>
 
 
