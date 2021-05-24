@@ -1,7 +1,6 @@
 <h1 align="center">Oi, seja bem-vindo(a)!<img src="https://github.com/gjoioso/gjoioso/blob/main/Hi.gif" width="40px"> </h1>
 </br>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gjoioso)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gjoioso)](https://www.linkedin.com/in/gjoioso) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gjoioso.cs@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/50esaalac0nu7lppnf4ptitu1)
