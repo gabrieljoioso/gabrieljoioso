@@ -14,7 +14,7 @@
 
 ## Tecnologias:computer:
 
-#### Software:
+#### Back-end:
 <p align="left">
  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="4%">
  <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="5%">
@@ -37,7 +37,12 @@
  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="4%">
  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="4%">
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="4%">
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="4%">                                                           <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="sql" width="3.9%">
+ <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="4%">
+ <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="3.9%">
+ <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="4%">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="4%">
+                                                                                                                       
+                                                                                                                       
 </p>
 
 
