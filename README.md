@@ -1,9 +1,8 @@
 <h1 align="center">Oi, seja bem-vindo(a)!<img src="https://github.com/gjoioso/gjoioso/blob/main/Hi.gif" width="40px"> </h1>
 </br>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gjoioso)](https://www.linkedin.com/in/gjoioso) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gjoioso.cs@gmail.com)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/50esaalac0nu7lppnf4ptitu1)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieljoioso)](https://www.linkedin.com/in/gjoioso) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrieljoioso@gmail.com)
 
 <h3 align="left">Meu nome é Gabriel Eduardo Joioso e atualmente sou acadêmico do curso de Ciência da Computação.</h3>
 <p align="left">Apaixonado por tecnologia, pelo mundo mobile e com o objetivo de construir uma carreira profissional sólida.</p>
