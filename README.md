@@ -4,8 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieljoioso)](https://www.linkedin.com/in/gabrieljoioso) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrieljoioso@gmail.com)
 
-<h3 align="left">Atualmente sou acadêmico do curso de Ciência da Computação e estagiário na conta de Service-Oriented Architecture(SOA) na DXC Technology.</h3>
-<p align="left">Possuo conhecimentos em Robotic Process Automation(RPA), Cloud Computing, Scrum, análise de sistemas, monitoração de sistemas com Kibana, Dynatrace e Grafana, análise de logs e código fonte, Adobe Photoshop, Git, SQL, desenvolvimento em Java e Python.</p>
+<h3 align="left">Bacharel em Ciência da Computação e atualmente Analista de Sistemas na conta de Service-Oriented Architecture (SOA) e Microservices na DXC Technology.</h3>
+<p align="left">Possuo certificação em Oracle Cloud Infrastructure, conhecimentos em Robotic Process Automation (RPA), Scrum, análise e monitoração de sistemas e aplicações (APM) com Kibana, Dynatrace e Grafana, análise de logs, fluxo (service flow) e código fonte, gestão de incidentes (troubleshooting), Git, SQL, desenvolvimento em Java e Python.</p>
 
 
 <p align="right">
