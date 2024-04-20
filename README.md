@@ -2,7 +2,6 @@
 </br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieljoioso)](https://www.linkedin.com/in/gabrieljoioso) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrieljoioso@gmail.com)
 
 <p align="left">Bacharel em Ciência da Computação e atualmente atuando na posição de Analista de Engenharia de Software na área de Service-Oriented Architecture (SOA), Microservices e APIs com ênfase em análise e desenvolvimento de correções e melhorias utilizando a linguagem Java. Além disso, desempenho um papel no desenvolvimento de automações em Python para aprimorar nossas estratégias de sustentação.
 
