@@ -4,8 +4,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieljoioso)](https://www.linkedin.com/in/gabrieljoioso) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrieljoioso@gmail.com)
 
-<h3 align="left">Bacharel em Ciência da Computação e atualmente Analista de Sistemas na conta de Service-Oriented Architecture (SOA) e Microservices na DXC Technology.</h3>
-<p align="left">Possuo certificação em Oracle Cloud Infrastructure, conhecimentos em Robotic Process Automation (RPA), Scrum, análise e monitoração de sistemas e aplicações (APM) com Kibana, Dynatrace e Grafana, análise de logs, fluxo (service flow) e código fonte, gestão de incidentes (troubleshooting), Git, SQL, desenvolvimento em Java e Python.</p>
+<p align="left">Bacharel em Ciência da Computação e atualmente atuando na posição de Analista de Engenharia de Software na área de Service-Oriented Architecture (SOA), Microservices e APIs com ênfase em análise e desenvolvimento de correções e melhorias utilizando a linguagem Java. Além disso, desempenho um papel no desenvolvimento de automações em Python para aprimorar nossas estratégias de sustentação.
+
+Minhas qualificações incluem a certificação em Oracle Cloud Infrastructure Professional, bem como um amplo conhecimento em Robotic Process Automation (RPA), metodologia Scrum, análise e monitoramento de sistemas e aplicações (APM) com ferramentas como Dynatrace, Kibana e Grafana. Também possuo experiência em análise de logs e código fonte, fluxo de serviços, testes com Postman e SoapUI, gestão e tratamento de incidentes (Troubleshooting), desenvolvimento em Java e Python e análise de dados utilizando SQL.</p>
 
 
 <p align="right">
